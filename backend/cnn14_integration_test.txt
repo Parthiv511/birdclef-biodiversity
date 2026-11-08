@@ -1,0 +1,17 @@
+CNN14 INTEGRATION VERIFICATION
+Device: cuda:0
+Total mapped species: 234
+Total model classes: 234
+Windows analyzed: 15
+
+TOP 10 PREDICTIONS
+137 | linwoo1 | Lineated Woodpecker | Dryocopus lineatus | 0.035741
+90 | brnowl | American Barn Owl | Tyto furcata | 0.035357
+146 | oliwoo1 | Olivaceous Woodcreeper | Sittasomus griseicapillus | 0.034363
+203 | squcuc1 | Common Squirrel-Cuckoo | Piaya cayana | 0.032793
+233 | yeofly1 | Yellow-olive Flatbill | Tolmomyias sulphurescens | 0.030994
+214 | trsowl | Tropical Screech Owl | Megascops choliba | 0.027774
+103 | compau | Pauraque | Nyctidromus albicollis | 0.027463
+104 | compot1 | Common Potoo | Nyctibius griseus | 0.027312
+213 | trokin | Tropical Kingbird | Tyrannus melancholicus | 0.020397
+121 | greant1 | Great Antshrike | Taraba major | 0.019744

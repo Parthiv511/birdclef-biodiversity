@@ -1,0 +1,127 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+.venv/
+venv/
+env/
+
+# Django
+*.sqlite3
+db.sqlite3
+media/
+staticfiles/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# AI model weights
+*.pth
+*.pt
+*.ckpt
+*.h5
+*.keras
+*.onnx
+*.tflite
+
+# Datasets
+train_audio/
+train_soundscapes/
+test_soundscapes/
+dataset/
+datasets/
+
+# Generated reports and temporary logs
+eslint-*-report.*
+eslint-debug-log.txt
+build-report.txt
+final-build.txt
+backend-check.txt
+final-eslint.txt
+
+# Python testing and cache
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Hugging Face and model caches
+.cache/
+.huggingface/
+**/.cache/
+
+# Temporary and local development files
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Environment and credentials
+.env
+.env.*
+!.env.example
+
+# Local database and uploaded media
+db.sqlite3
+*.sqlite3
+media/
+
+# Python environment
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Local audit and diagnostic reports
+ast-model-files.txt
+audio_api_test.json
+audio_frontend_audit.txt
+backend-file-list.txt
+backend-imports.txt
+backend_health_test.txt
+backend_response_audit.txt
+checkpoint_architecture_audit.txt
+cnn14_classifier_verification.txt
+cnn14_inference_current.txt
+django_configuration_audit.txt
+eslint-report.json
+frontend_audit.txt
+frontend_project_structure.txt
+installed-packages.txt
+integration_configuration.txt
+model-loading-locations.txt
+spectrogram-eslint.txt

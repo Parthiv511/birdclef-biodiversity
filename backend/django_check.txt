@@ -1,0 +1,2 @@
+W1108 11:11:12.586000 18508 .venv\Lib\site-packages\torch\distributed\elastic\multiprocessing\redirects.py:29] NOTE: Redirects are currently not supported in Windows or MacOs.
+System check identified no issues (0 silenced).

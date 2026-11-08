@@ -1,0 +1,10 @@
+Django
+djangorestframework
+django-cors-headers
+numpy
+soundfile
+librosa
+torch
+torchaudio
+transformers
+huggingface_hub
