@@ -1,0 +1,12 @@
+Django==6.1.2
+djangorestframework==3.18.3
+django-cors-headers==4.9.0
+
+gunicorn
+whitenoise
+dj-database-url
+psycopg[binary]
+requests
+
+numpy==2.5.4
+soundfile==0.14.0

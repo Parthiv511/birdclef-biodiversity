@@ -125,3 +125,19 @@ installed-packages.txt
 integration_configuration.txt
 model-loading-locations.txt
 spectrogram-eslint.txt
+# Additional deployment exclusions
+**/.venv-deploy/
+**/.venv-production/
+
+# Database migration backup
+backend/sqlite_data_backup.json
+sqlite_data_backup.json
+
+# Local deployment logs
+backend/neon*.txt
+backend/production_deploy_check.txt
+backend/production_settings_review.txt
+
+# Python cache files
+__pycache__/
+*.py[cod]

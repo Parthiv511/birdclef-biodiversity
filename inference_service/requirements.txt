@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+python-multipart
+
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.11.0+cpu
+
+numpy
+soundfile
+librosa
+scipy
+
+transformers
+huggingface_hub
+torchlibrosa
